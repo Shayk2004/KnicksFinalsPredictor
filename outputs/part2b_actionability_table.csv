@@ -1,0 +1,11 @@
+finding,evidence_metric,opponent,knicks_actionability_score,possible_knicks_tactic
+OKC loss rate rises when SGA efficiency is pushed down,loss-rate lift 0.109,OKC,5,"Show early help, crowd driving gaps, force contested pull-up jumpers"
+OKC is vulnerable when SGA has a high-turnover game,loss-rate lift 0.111,OKC,4,"Send selective digs, load up at the elbows, rotate out of help with discipline"
+OKC is vulnerable when bench scoring is muted,loss-rate lift 0.074,OKC,4,"Stagger Brunson/Towns, avoid all-bench units, shorten rotation"
+OKC is vulnerable when its bench loses the minutes battle,loss-rate lift 0.061,OKC,4,"Stagger Brunson/Towns, attack second-unit matchups, keep one creator on court"
+OKC losses are associated with a worse turnover margin,Cohen's d 0.578,OKC,4,Reduce live-ball passes and use Brunson/Towns as primary decision hubs
+SAS loss rate rises when Wembanyama scoring efficiency is reduced,loss-rate lift 0.247,SAS,5,"Use Towns pick-and-pop, early post help, and mixed coverages to pull him from comfort zones"
+SAS losses are tied to opponents shooting well from three,loss-rate lift 0.129,SAS,4,Create corner threes through Brunson paint touches and Towns spacing
+SAS is vulnerable when Wembanyama has a high-turnover game,loss-rate lift 0.132,SAS,4,"Dig at the ball, crowd catches, and make him pass through traffic"
+SAS is vulnerable when bench scoring is muted,loss-rate lift 0.067,SAS,3,Win the second-unit minutes with steady creator staggering
+SAS is vulnerable when its bench loses the minutes battle,loss-rate lift 0.081,SAS,3,Attack bench matchups and keep spacing-heavy units on the floor
